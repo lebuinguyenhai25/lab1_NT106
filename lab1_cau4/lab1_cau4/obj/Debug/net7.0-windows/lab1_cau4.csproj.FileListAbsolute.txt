@@ -1,0 +1,16 @@
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\bin\Debug\net7.0-windows\lab1_cau4.exe
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\bin\Debug\net7.0-windows\lab1_cau4.deps.json
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\bin\Debug\net7.0-windows\lab1_cau4.runtimeconfig.json
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\bin\Debug\net7.0-windows\lab1_cau4.dll
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\bin\Debug\net7.0-windows\lab1_cau4.pdb
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.Form1.resources
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.csproj.GenerateResource.cache
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.AssemblyInfoInputs.cache
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.AssemblyInfo.cs
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.csproj.CoreCompileInputs.cache
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.dll
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\refint\lab1_cau4.dll
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.pdb
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\lab1_cau4.genruntimeconfig.cache
+C:\Users\lebui\OneDrive\Desktop\hk4\laptrinhmang\thuchanh\lab1\lab1_cau4\lab1_cau4\obj\Debug\net7.0-windows\ref\lab1_cau4.dll
